@@ -1,13 +1,5 @@
 var questions = [
     {
-        question: 'Cu bắp sinh ngày tháng năm nào?',
-        answerA: '20/01/2020',
-        answerB: '01/12/2020',
-        answerC: '12/01/2020',
-        answerD: '25/07/18',
-        answerRight: 'B',
-    },
-    {
         question: 'Chúng ta đặt JavaScript bên trong phần tử HTML nào?',
         answerA: '<js>',
         answerB: '<javascript>',
